@@ -87,4 +87,7 @@ public class Product {
 	public Product() {
 		
 	}
+public void m1()
+{
+System.out.Println("M1 Method is Add");
 }
