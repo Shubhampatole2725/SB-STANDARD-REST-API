@@ -87,6 +87,4 @@ public class Product {
 	public Product() {
 		
 	}
-public void m1(){
-	System.out.println("m1--Method Added");
 }
